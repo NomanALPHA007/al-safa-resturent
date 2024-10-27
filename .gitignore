@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# Node modules
+node_modules/
+
+# Next Js modules
+.next/
+
+
+
